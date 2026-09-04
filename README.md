@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Kim Jiyun — Frontend Developer → Financial IT, Fullstack"/>
+<img src="assets/hero.svg" width="100%" alt="Kim Jiyun — Frontend Developer → Fullstack"/>
 
 <br/><br/>
 
@@ -113,12 +113,5 @@ flowchart LR
 ```
 
 <br/>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=kirnjiyun&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&icon_color=2DD4BF&text_color=8FA0C8&ring_color=6366F1&include_all_commits=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirnjiyun&layout=compact&hide_border=true&hide_title=true&bg_color=00000000&text_color=8FA0C8&langs_count=6"/>
-
-<br/><br/>
 
 </div>
