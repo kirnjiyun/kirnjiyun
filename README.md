@@ -94,7 +94,6 @@ flowchart LR
 | [**DailyQ**](https://dailyq.me) | 기술 면접 질문 메일 구독 · 1인 풀스택 설계/운영 &nbsp;`Spring Boot` `Next.js` `AWS` |
 | [**discord-time-checker**](https://github.com/kirnjiyun/discord-time-checker) | 16인 스터디 화면공유 타임체크 봇 · 실사용 중 &nbsp;`TypeScript` `Node.js` |
 | [**jiyunFrontPortfolio-FE**](https://github.com/kirnjiyun/jiyunFrontPortfolio-FE) | 포트폴리오 사이트 kimjiyun.site &nbsp;`Next.js` `TypeScript` |
-| [**shinhan-java**](https://github.com/kirnjiyun/shinhan-java) | 백엔드 확장을 위한 Java/Spring 학습 기록 &nbsp;`Java` |
 | [mirujima_FE](https://github.com/FESI-7-4/mirujima_FE) | 콘텐츠를 할 일로 관리하는 서비스 · 팀 프로젝트 &nbsp;`TypeScript` |
 | [web-como](https://github.com/Findev-omo/web-como) | 동호회 임원/주무부서 관리센터 웹 · 팀 프로젝트 &nbsp;`TypeScript` |
 
@@ -103,13 +102,7 @@ flowchart LR
 ## ◆ Building Next
 
 ```
-2026 Q4  ├─ 모임통장 + 자동 정산 · Spring Boot + Vue
-         │  회비 수금 → 지출 기록 → 월말 N분할 자동 정산
-         │  영수증 사진 자동 기록 · "이번 달 정산 돌려줘" 자연어 에이전트
-         │
-         └─ 도메인 지식 RAG 어시스턴트
-            공개 규정만으로 코퍼스 구성 · 골든셋 60문항 회귀 평가
-            모르는 영역은 '확인 필요'로 표시하는 가정 등록부 운영
+2026 Q4  ├─secret
 ```
 
 <br/>
